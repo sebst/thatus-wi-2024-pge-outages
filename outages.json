@@ -25,5 +25,32 @@
     "fts_flag": "N",
     "geometry_x": -13544046.522500001,
     "geometry_y": 4560354.0239999965
+  },
+  {
+    "F_OUTAGE_ID": 2860090,
+    "OUTAGE_EXTENT": "DEVICE",
+    "OUTAGE_DEVICE_ID": "182492105-2101593843",
+    "OUTAGE_CIRCUIT_ID": 182492105,
+    "CREW_ETA": "8/14/2025 1:41:00 PM",
+    "CREW_CURRENT_STATUS": "T-Man On Site",
+    "OUTAGE_CAUSE": "TREE CONTACT",
+    "EST_CUSTOMERS": 3,
+    "OUTAGE_LATITUDE": 36.716589999999997,
+    "OUTAGE_LONGITUDE": -121.34524999999999,
+    "CITY": "Hollister",
+    "COUNTY": null,
+    "ZIP": null,
+    "DEVICE_COUNT": 0,
+    "OUTAGE_START": 1755175872000,
+    "OUTAGE_START_TEXT": null,
+    "LAST_UPDATE": 1755179879000,
+    "LAST_UPDATE_TEXT": null,
+    "CURRENT_ETOR": 1755186300000,
+    "CURRENT_ETOR_TEXT": null,
+    "AUTO_ETOR": 1755186300000,
+    "SPID": null,
+    "fts_flag": "N",
+    "geometry_x": -13508091.440200001,
+    "geometry_y": 4399676.3686000034
   }
 ]
